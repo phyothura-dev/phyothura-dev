@@ -1,26 +1,10 @@
 <h1 align="center">Hello, I'm Phyo Thura 👋</h1>
-<h3 align="center">System Integrator | Software Developer</h3>
-
-<p align="center">
-  <a href="https://thura.newway-solutions.tech" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-thura.newway--solutions.tech-0284c7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="https://www.linkedin.com/in/phyothura21" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://t.me/KP_Vv" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
-  </a>
-</p>
-
----
+<h3 align="center">Software Developer</h3>
 
 ### 🧠 About Me
 
-- 🏢 **Senior IT Associate (System Integration)** at **Nordic Group Logistic Ltd**
-- 🛠️ Specializing in **Enterprise System Integration**, **ERP Systems (Odoo 18)**, and **Full-Stack Development**
 - 🚀 Passionate about architecting scalable web solutions, automated workflows, and high-performance APIs
-- 💻 Proficient in **TypeScript**, **Python**, **PHP**, **React**, **Next.js**, **Vue.js**, and **Laravel**
+- 💻 Proficient in **TypeScript**, **PHP**, **React**, **Next.js**, **Vue.js**, and **Laravel**
 - ☁️ Experienced with **Docker containerization**, **CI/CD pipelines**, **Linux servers**, and modern databases (**PostgreSQL**, **MySQL**, **Supabase**, **Redis**)
 
 ---
@@ -35,8 +19,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" alt="Kotlin" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" alt="Android" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40" />
@@ -89,9 +71,6 @@
 ### 🌐 Connect With Me
 
 <p align="left">
-  <a href="https://thura.newway-solutions.tech" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-0284c7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
-  </a>
   <a href="https://www.linkedin.com/in/phyothura21" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
